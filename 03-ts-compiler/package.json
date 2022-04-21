@@ -1,0 +1,16 @@
+{
+  "name": "03-ts-compiler",
+  "version": "1.0.0",
+  "description": "The Third Module of Maximillan course",
+  "main": "app.js",
+  "repository": "https://github.com/0tuedon/advance-typescript",
+  "author": "Tuedon Tuoyo",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
