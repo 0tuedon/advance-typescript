@@ -1,6 +1,6 @@
 
 // function return type
-const add = (n1:number,n2:number):string => {
+let add = (n1:number,n2:number):string => {
     return n1.toString() + n2.toString()
 }
 

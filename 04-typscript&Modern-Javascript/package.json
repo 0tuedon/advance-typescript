@@ -1,0 +1,11 @@
+{
+  "name": "04-modern-typescript",
+  "version": "1.0.0",
+  "description": "Module 04",
+  "main": "app.js",
+  "author": "Tuedon Tuoyo",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
