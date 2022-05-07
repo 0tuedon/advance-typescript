@@ -1,0 +1,13 @@
+{
+  "name": "05-classes-and-interfaces",
+  "version": "1.0.0",
+  "description": "Learning Classes and Interface ",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
